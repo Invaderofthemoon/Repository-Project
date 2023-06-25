@@ -1,0 +1,3 @@
+# C-Project-One
+ Clock
+This is my first project using C++. I realized and learned how to separate my functions to clean up my code in .H files and other .cpp files. The hardest part of this project was trying to make it advanced using all the functions and algorithm to make them work. Previous projects I have learned to separate my functions from my main section. This will be my standard to make the files transferable to other projects and easier to read.
